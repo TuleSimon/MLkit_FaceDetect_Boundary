@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceCapture</string>
+    <string name="camera_ui_container_info_one">Align your face in the center of the circle</string>
+    <string name="camera_ui_container_info_two">Place your head in the circle and Look directly into the camera while we do the magic</string>
+</resources>
